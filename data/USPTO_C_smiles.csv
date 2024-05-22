@@ -1,4 +1,4 @@
-smiles,split,high_yielding,not_high_yielding
+reaction,split,high_yielding,not_high_yielding
 O=C(Nc1ccc(Br)c(F)c1[N+](=O)[O-])C(F)(F)F.O=C([O-])[O-]>CCOC(C)=O.CI.CN(C)C=O.O.O=C([O-])[O-].[Cs+].[K+]>CNc1ccc(Br)c(OC)c1[N+](=O)[O-],train,1,0
 C#C.C[Si](C)(C)CCCCCCO>CS(C)=O.[K+].[OH-]>C=COCCCCCC[Si](C)(C)C,train,1,0
 CC1COC(=O)N1.CCCCCI>C1CCOC1.CCCCCC.O=S(=O)(O)O.[H-].[Na+]>CCCCCN1C(=O)OCC1C,train,1,0

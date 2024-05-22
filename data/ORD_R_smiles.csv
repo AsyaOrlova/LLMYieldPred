@@ -1,4 +1,4 @@
-smiles,split,high_yielding,not_high_yielding
+reaction,split,high_yielding,not_high_yielding
 [CH3][CH]([CH3])OC(=O)Cl.[NH2][NH]C1=N[NH]C2=[CH]C(Cl)=[CH][CH]=C21>C1=CC=NC=C1>[CH3][CH]([CH3])OC(=O)[NH][NH]C1=N[NH]C2=[CH]C(Cl)=[CH][CH]=C21,train,0,1
 COC(=O)O[CH3].[CH3]C1=C([N+](=O)[O-])[CH]=C([N+](=O)[O-])[CH]=[CH]1>>[CH3]OC(=O)[NH]C1=[CH]C([NH]C(=O)O[CH3])=C([CH3])[CH]=[CH]1,train,0,1
 [CH3][CH2]C(=O)N([CH3])[CH]1[CH2][CH2]N(CC2=CC=CC=C2)[CH2][CH2]1>CCO.[OH-].[OH-].[Pd+2]>[CH3][CH2]C(=O)N([CH3])[CH]1[CH2][CH2][NH][CH2][CH2]1,train,0,1

@@ -1,4 +1,4 @@
-smiles,split,high_yielding,not_high_yielding
+reaction,split,high_yielding,not_high_yielding
 C1=CO[CH]=C1.COC1=C(O[CH3])O[CH2][CH2]1>>[CH3]O[CH]1[CH2][CH2][CH](O[CH3])O1,train,0,1
 C=O.[CH3][CH2]C1=N[CH2][CH2]O1>O>[CH3][CH]([CH2][OH])C1=N[CH2][CH2]O1,train,1,0
 O=C(Cl)[CH2][CH2][CH2]Cl.[NH2][CH2]/C=C\[CH2]OC1=N[CH]=[CH]C([CH2]N2[CH2][CH2][CH2][CH2][CH2]2)=[CH]1>>O=C([CH2][CH2][CH2]Cl)[NH][CH2]/C=C\[CH2]OC1=N[CH]=[CH]C([CH2]N2[CH2][CH2][CH2][CH2][CH2]2)=[CH]1,train,1,0

@@ -1,4 +1,4 @@
-sentences,split,not_high_yielding,high_yielding
+reaction,split,not_high_yielding,high_yielding
 "Furan and 4,5-dimethoxy-2,3-dihydrofuran react together to produce 2,5-dimethoxyoxolane.",train,1,0
 "Formaldehyde and 2-ethyl-4,5-dihydro-1,3-oxazole react together in the presence of oxidane to produce 2-(4,5-dihydro-1,3-oxazol-2-yl)propan-1-ol.",train,0,1
 4-chlorobutanoyl chloride and (z)-4-[4-(piperidin-1-ylmethyl)pyridin-2-yl]oxybut-2-en-1-amine react together to produce 4-chloro-n-[(z)-4-[4-(piperidin-1-ylmethyl)pyridin-2-yl]oxybut-2-enyl]butanamide.,train,0,1

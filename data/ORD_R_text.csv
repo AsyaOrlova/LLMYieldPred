@@ -1,4 +1,4 @@
-sentences,split,not_high_yielding,high_yielding
+reaction,split,not_high_yielding,high_yielding
 Propan-2-yl carbonochloridate and (6-chloro-1h-indazol-3-yl)hydrazine react together in the presence of pyridine to produce propan-2-yl n-[(6-chloro-1h-indazol-3-yl)amino]carbamate.,train,1,0
 "Dimethyl carbonate and 1-methyl-2,4-dinitrobenzene react together to produce methyl n-[3-(methoxycarbonylamino)-4-methylphenyl]carbamate.",train,1,0
 "N-(1-benzylpiperidin-4-yl)-n-methylpropanamide reacts in the presence of ethanol, hydroxide, hydroxide, palladium(2+) to produce n-methyl-n-piperidin-4-ylpropanamide.",train,1,0

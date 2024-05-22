@@ -1,4 +1,4 @@
-smiles,split,high_yielding,not_high_yielding
+reaction,split,high_yielding,not_high_yielding
 CC(C)C[C@H](NC(=O)OC(C)(C)C)C(=O)O.O=C1CCC(=O)N1O>C(=NC1CCCCC1)=NC1CCCCC1.C1CCOC1.O>CC(C)C[C@H](NC(=O)OC(C)(C)C)C(=O)ON1C(=O)CCC1=O,train,1,0
 C1CCNCC1.CC(C)(C)OC(=O)n1nc(I)c2sc(COS(C)(=O)=O)cc21>CCN(CC)CC.ClCCl>CC(C)(C)OC(=O)n1nc(I)c2sc(CN3CCCCC3)cc21,train,0,1
 CC(=O)OC(C(=O)c1ccc(F)c2ccccc12)C(C)C.N#CN>CC(C)C(=O)C(O)c1ccc(F)c2ccccc12.CC(C)C(O)C(=O)c1ccc(F)c2ccccc12.CCO.Cl>CC(C)c1nc(N)oc1-c1ccc(F)c2ccccc12,train,0,1

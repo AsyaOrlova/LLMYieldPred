@@ -1,4 +1,4 @@
-sentences,split,not_high_yielding,high_yielding
+reaction,split,not_high_yielding,high_yielding
 "(2s)-4-methyl-2-[(2-methylpropan-2-yl)oxycarbonylamino]pentanoic acid and 1-hydroxypyrrolidine-2,5-dione react together in the presence of n,n'-dicyclohexylmethanediimine, oxolane, oxidane to produce (2,5-dioxopyrrolidin-1-yl) (2s)-4-methyl-2-[(2-methylpropan-2-yl)oxycarbonylamino]pentanoate.",train,0,1
 "Piperidine and tert-butyl 3-iodo-5-(methylsulfonyloxymethyl)thieno[3,2-c]pyrazole-1-carboxylate react together in the presence of n,n-diethylethanamine, dichloromethane to produce tert-butyl 3-iodo-5-(piperidin-1-ylmethyl)thieno[3,2-c]pyrazole-1-carboxylate.",train,1,0
 "[1-(4-fluoronaphthalen-1-yl)-3-methyl-1-oxobutan-2-yl] acetate and cyanamide react together in the presence of 1-(4-fluoronaphthalen-1-yl)-1-hydroxy-3-methylbutan-2-one, 1-(4-fluoronaphthalen-1-yl)-2-hydroxy-3-methylbutan-1-one, ethanol, chlorane to produce 5-(4-fluoronaphthalen-1-yl)-4-propan-2-yl-1,3-oxazol-2-amine.",train,1,0

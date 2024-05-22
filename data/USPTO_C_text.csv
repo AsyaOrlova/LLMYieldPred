@@ -1,4 +1,4 @@
-sentences,split,not_high_yielding,high_yielding
+reaction,split,not_high_yielding,high_yielding
 "N-(4-bromo-3-fluoro-2-nitrophenyl)-2,2,2-trifluoroacetamide and carbonate react together in the presence of ethyl acetate, iodomethane, n,n-dimethylformamide, oxidane, carbonate, cesium(1+), potassium(1+) to produce 4-bromo-3-methoxy-n-methyl-2-nitroaniline.",train,0,1
 "Acetylene and 6-trimethylsilylhexan-1-ol react together in the presence of methylsulfinylmethane, potassium(1+), hydroxide to produce 6-ethenoxyhexyl(trimethyl)silane.",train,0,1
 "4-methyl-1,3-oxazolidin-2-one and 1-iodopentane react together in the presence of oxolane, hexane, sulfuric acid, hydride, sodium(1+) to produce 4-methyl-3-pentyl-1,3-oxazolidin-2-one.",train,0,1

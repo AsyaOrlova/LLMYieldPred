@@ -6,8 +6,7 @@ from tqdm import tqdm
 import time
 import json
 
-API_URL = "http://172.86.106.26:6969"
-
+API_URL=""
 
 try:
     arg_index = argv.index("--engine")

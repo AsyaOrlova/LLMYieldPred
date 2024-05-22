@@ -35,7 +35,6 @@ random.seed(int(config.seed))
 dataset = Dataset.load_path(config.dataset, config)
 splits: tuple[Dataset, Dataset] = dataset.train_test_split(test_size=config.test_size)
 train_dataset, test_dataset = splits
-# test_dataset = test_dataset[:50]  # To delete when you gonna use it!!!!!!
 
 results: list[dict] = []
 path = create_result_directory(config=config)
