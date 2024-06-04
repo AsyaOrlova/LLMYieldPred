@@ -5,6 +5,14 @@ Chemical reaction yield, defined as the percentage of reactants turned into prod
 ![alt text](https://github.com/AsyaOrlova/llm_yield_pred/blob/main/assets/emb_gradient.jpg)
 
 ## :pushpin: Preparation of datasets
+All notebooks regarding the datasets preparation process can be found in the ```data``` folder.
+### USPTO
+We used the Schwaller's version of the USPTO dataset, which was originally suggested in [this](https://pubs.rsc.org/en/content/articlelanding/2018/SC/C8SC02339E) paper. The dataset itself can be found [here](https://ibm.ent.box.com/v/ReactionSeq2SeqDataset). We additionally preprocessed the dataset as suggested in ```1_uspto_processing.ipynb```. Then, we created two smaller datasets: USPTO-R and USPTO-C (see ```3_uspto_datasets_preparation.ipynb```).
+### ORD
+We parsed the ORD dataset using ordschema API. The dataset was preprocessed as suggested in ```2_ord_processing.ipynb```. The preparation of ORD-R and ORD-C datasets is described in ```4_ord_datasets_preparation.ipynb```.
+
+Reactions from each dataset were converted into text descriptions as suggested in ```5_smiles_to_iupac.ipynb```.
+The datasets for the experiments on the optimal training subset size were obtained as suggested in ```6_train_size_datasets_preparation.ipynb```.
 
 ## :pushpin: Few-shot classification
 
