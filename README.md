@@ -19,16 +19,16 @@ The code needed to reproduce few-shot classification experiments is provided in 
 
 ### Config file structure
 
-**name=name**  - any identifier for your experiments folder
-**subject=chemistry** - area of your experiments
-**provider=openai** - provider (openai, mistral, anthropic are available)
-**engine=gpt-4** - LLM name
-**dataset=./data/dataset.csv** - path to the dataset
-**data_format=text** - data format ("text" if your data is in the format of sentences, "table" if your data is in the format of features)
-**classes=class_1,class_2** - classes of your data (the same as in your dataset, comma-separated, without spaces)
-**n_for_train=7** - number of examples in prompt
-**seed=36** - random seed needed to obtain reproducible results
-**enable_metrics=True** - whether to calculate metrics for the experiment or not
+**name=name**  - any identifier for your experiments folder</br>
+**subject=chemistry** - area of your experiments</br>
+**provider=openai** - provider (openai, mistral, anthropic are available)</br>
+**engine=gpt-4** - LLM name</br>
+**dataset=./data/dataset.csv** - path to the dataset</br>
+**data_format=text** - data format ("text" if your data is in the format of sentences, "table" if your data is in the format of features)</br>
+**classes=class_1,class_2** - classes of your data (the same as in your dataset, comma-separated, without spaces)</br>
+**n_for_train=7** - number of examples in prompt</br>
+**seed=36** - random seed needed to obtain reproducible results</br>
+**enable_metrics=True** - whether to calculate metrics for the experiment or not</br>
 
 Example of the config file is provided in the folder.
 
@@ -58,5 +58,5 @@ The code needed to extract reactions embeddings from text-embedding-3-large (Ope
 
 Scripts for running grid-search and evaluation of XGB models trained on DRFPs and LLM embeddings are provided in the [xgb_drid_search](./xgb_grid_search/) folder.
 
-`python xgb_gs_drfp.py <path_to_smiles_dataset.csv> > result.txt`
+`python xgb_gs_drfp.py <path_to_smiles_dataset.csv> > result.txt`</br>
 `python xgb_gs_embeddings.py <path_to_llm_embeddings_dataset.csv> <path_to_smiles_dataset.csv> > result.txt`
